@@ -1,0 +1,2 @@
+# ClaudeNC.exe
+Open README
